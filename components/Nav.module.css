@@ -1,0 +1,14 @@
+.nav {
+	width: 40%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	background-color: #fff;
+	padding: 4px;
+}
+
+.nav li {
+	list-style-type: none;
+	margin-left: 20px;
+	margin-right: 15px;
+}
